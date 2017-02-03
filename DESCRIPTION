@@ -1,0 +1,17 @@
+Package: vimp
+Type: Package
+Title: Variable Importance
+Version: 0.1
+Date: 2017-02-03
+Author: Philipp Probst
+Maintainer: Philipp Probst <philipp_probst@gmx.de>
+Description: The package provides a function to calculate the variable
+    importance for random forests for any measure that is available in the mlr
+    package.
+License: What license is it under?
+Depends:
+    R (>= 3.0.2)
+Imports:
+    mlr (>= 2.0),
+    randomForest
+RoxygenNote: 5.0.1
