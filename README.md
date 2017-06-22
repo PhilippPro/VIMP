@@ -8,3 +8,5 @@ Installation:
 ```R
 devtools::install_github("PhilippPro/vimp")
 ```
+
+Comment: Does not work correctly.
